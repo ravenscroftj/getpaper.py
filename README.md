@@ -38,7 +38,7 @@ Assuming you have a python3 installation just run `python setup.py install`.
 
 ## How to use as a CLI
 
-Simply run `python3 -m getpaper <url> [<url2> <url3> ...]`
+Simply run `./getpaper <url> [<url2> <url3> ...]`
 
 ## How to use as a library
 
